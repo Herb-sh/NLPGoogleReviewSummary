@@ -1,0 +1,52 @@
+2023-01-23 23:40:27,661 - ERROR - Not handled error: 'ReviewGatherer' object has no attribute 'collection'
+2023-01-23 23:44:01,402 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-23 23:44:01,402 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:04:19,991 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:04:19,991 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:04:19,991 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:04:19,991 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:15:03,404 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:15:03,404 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:15:03,404 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:15:03,404 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:15:03,404 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-24 00:52:24,250 - ERROR - Not handled error: Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=109.0.5414.87)
+
