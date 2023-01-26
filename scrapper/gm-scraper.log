@@ -1,0 +1,802 @@
+2023-01-26 23:25:33,540 - ERROR - Not handled error: 'GoogleMapsScraper' object has no attribute '_GoogleMapsScraper__getLogger'
+2023-01-26 23:26:28,676 - ERROR - Not handled error: 'GoogleMapsScraper' object has no attribute '_GoogleMapsScraper__getLogger'
+2023-01-26 23:26:28,676 - ERROR - Not handled error: 'GoogleMapsScraper' object has no attribute '_GoogleMapsScraper__getLogger'
+2023-01-26 23:27:35,880 - ERROR - Not handled error: 'GoogleMapsScraper' object has no attribute '_GoogleMapsScraper__getLogger'
+2023-01-26 23:27:35,880 - ERROR - Not handled error: 'GoogleMapsScraper' object has no attribute '_GoogleMapsScraper__getLogger'
+2023-01-26 23:27:35,880 - ERROR - Not handled error: 'GoogleMapsScraper' object has no attribute '_GoogleMapsScraper__getLogger'
+2023-01-26 23:39:30,161 - WARNING - Failed to click sorting button
+2023-01-26 23:39:30,161 - WARNING - Failed to click sorting button
+2023-01-26 23:39:30,161 - WARNING - Failed to click sorting button
+2023-01-26 23:39:30,161 - WARNING - Failed to click sorting button
+2023-01-26 23:39:30,161 - WARNING - Failed to click sorting button
+2023-01-26 23:39:50,297 - WARNING - Failed to click sorting button
+2023-01-26 23:39:50,297 - WARNING - Failed to click sorting button
+2023-01-26 23:39:50,297 - WARNING - Failed to click sorting button
+2023-01-26 23:39:50,297 - WARNING - Failed to click sorting button
+2023-01-26 23:39:50,297 - WARNING - Failed to click sorting button
+2023-01-26 23:40:10,478 - WARNING - Failed to click sorting button
+2023-01-26 23:40:10,478 - WARNING - Failed to click sorting button
+2023-01-26 23:40:10,478 - WARNING - Failed to click sorting button
+2023-01-26 23:40:10,478 - WARNING - Failed to click sorting button
+2023-01-26 23:40:10,478 - WARNING - Failed to click sorting button
+2023-01-26 23:40:30,621 - WARNING - Failed to click sorting button
+2023-01-26 23:40:30,621 - WARNING - Failed to click sorting button
+2023-01-26 23:40:30,621 - WARNING - Failed to click sorting button
+2023-01-26 23:40:30,621 - WARNING - Failed to click sorting button
+2023-01-26 23:40:30,621 - WARNING - Failed to click sorting button
+2023-01-26 23:40:53,164 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:40:53,164 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:40:53,164 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:40:53,164 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:40:53,164 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:53:05,440 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,440 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,440 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,440 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,440 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,440 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,440 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,442 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,443 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,443 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,443 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,443 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,443 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,443 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,443 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,444 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,444 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,444 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,444 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,444 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,444 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,444 - WARNING - Failed to click sorting button
+2023-01-26 23:53:05,444 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-26 23:53:05,444 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-26 23:53:05,444 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-26 23:53:05,444 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-26 23:53:05,444 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-26 23:53:05,444 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-26 23:53:05,444 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA
+2023-01-26 23:53:05,445 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-26 23:53:05,445 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-26 23:53:05,445 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-26 23:53:05,445 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-26 23:53:05,445 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-26 23:53:05,445 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-26 23:53:05,445 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-26 23:56:53,471 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:56:53,471 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:56:53,471 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:56:53,471 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:56:53,471 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:56:53,471 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:56:53,471 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:56:53,471 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-26 23:56:53,471 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1217539,8.6802749,15z/data=!4m2!3m1!1s0x0:0xc088ec1873216106?sa=X&ved=2ahUKEwiiyr7V89v8AhU5hv0HHZ17ArQQ_BJ6BQiFARA : 16 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:27:39,223 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:29:06,576 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:18,059 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:30:29,680 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:04,965 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:17,550 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:25,097 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:32:55,582 - ERROR - Not handled error: name 'debug' is not defined
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:04,807 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:24,937 - WARNING - Failed to click sorting button
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:35:44,884 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:36:42,429 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:02,636 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:22,868 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:37:43,092 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,297 - WARNING - Failed to click sorting button
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:38:03,302 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:33,202 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:39:53,306 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:13,605 - WARNING - Failed to click sorting button
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:40:22,525 - ERROR - Exception: list index out of range
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:16,317 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,076 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,077 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,078 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,079 - WARNING - Failed to click sorting button
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,080 - WARNING - Sorting reviews failed for https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:41:33,081 - ERROR - Not handled error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=109.0.5414.87)
+
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
+2023-01-27 00:46:13,672 - INFO - https://www.google.com/maps/place/Super+Bro's/@50.1256993,8.6789414,14.62z/data=!4m5!3m4!1s0x0:0xc088ec1873216106!8m2!3d50.1217455!4d8.680312 : 15 new reviews
