@@ -1,76 +1,95 @@
 ;food_positive;service_positive;ambient_positive;price_positive;waiting_positive;rating;caption
-0;1;1;0;0;0;5.0;abstand leckerst pizza halb abends mitnehmen bestellen positiv emotion einfach niederknien
-1;1;0;0;0;0;4.0;chicken pizzas
-4;1;0;1;0;0;5.0;leck pizz cool atmosphäre
+0;1;1;0;0;0;5.0;abstand leckerste pizza deutschland halb abends mitnehmen bestellt positive emotionen einfach niederknien
+1;1;0;0;0;0;4.0;good place dine sadly chicken pizzas available keep mind waiting time when visit
+2;1;0;0;0;0;5.0;this must pizza frankfurt
+3;1;0;0;0;0;5.0;pizza place frankfurt
+4;1;0;1;0;0;5.0;leckere pizzen coole atmosphäre
+5;1;1;1;0;0;5.0;great pizza place with good food friendly staff vibes good music
 6;1;0;0;0;0;5.0;extrem lecker empfehlung
-7;1;0;1;0;0;5.0;gut pizza authentisch
-9;1;0;0;0;0;2.0;pizza
+7;1;0;1;0;0;5.0;beste pizza frankfurt authentisch
+8;1;0;0;0;0;5.0;great pizza
+9;1;0;0;0;0;2.0;pizza good service really should arrive hours before when start getting hungry long wait
 10;0;0;0;0;0;4.0;solide pizza overrated overpriced
-12;1;0;0;0;0;5.0;lecker pizza
-13;1;0;0;0;0;5.0;phänomenal pizza
-14;1;1;0;0;0;5.0;voll eventuell schlange stehen sobald sitzen super nett service
-16;1;1;0;0;0;5.0;chillig laune angestellt fast partymäßig
+11;1;0;1;0;0;5.0;what like pizza good wine good nice people good waiting time entrance about minutes orders made counter wait menu
+12;1;0;0;0;0;5.0;mega leckere pizza frankfurts
+13;1;0;0;0;0;5.0;phänomenale pizza italien
+14;1;1;0;0;0;5.0;voll eventuell schlange stehen sobald sitzt super netter service essen
+15;1;0;0;0;0;5.0;absolutely fantastic pizza this definitely best best pizza places frankfurt they were fully packed weeknight reservations highly recommended
+16;1;1;0;0;0;5.0;chillige pizzeria laune angestellten fast partymäßig pizza mega
+17;1;0;0;0;0;5.0;hands down best pizza town
 18;1;0;0;0;0;5.0;geil
-19;1;0;1;0;0;5.0;super lecker belegt pizza extrem dünn mitte dick fluffig rand normal deutsch sorte suchen vergeblich deutlich italienisch
-20;1;0;1;0;0;4.0;pizz lecker wartezeit grade stichzeien sommer schön draußen sitzen drinnen musik
-21;1;0;0;0;0;5.0;gehören restaurants
-23;1;0;0;0;0;3.0;pizza mozarella frisch zutat boden labbig rand reichlich teig wartezeit stolz preis durchwachsen produkt
-25;1;1;1;1;0;5.0;gut pizza kosten servieren neapolitanisch pizza preis leistung
-26;1;0;0;0;0;4.0;traditionell italienisch pizza genau essen theke bestellen veganer eignen
-27;1;0;1;0;0;5.0;leckerst pizza stadt toll ambiente
-28;1;0;0;0;1;5.0;definitiv gut pizza pizza schmecken genau original neapolitanisch pizza vorstellen warten pizza genial
-29;1;0;0;0;0;5.0;super lecker pizza
-30;1;1;1;0;0;5.0;super lecker pizz stylish trubelig atmosphäre super nett super
-31;1;0;0;0;0;4.0;leck pizza toll mittags
-32;1;1;0;0;0;5.0;gut pizza super personal
-33;1;1;0;0;0;5.0;pizza merken gegessen völlegefühl sonstig symptom liegen teig hervorragend teig hervorragend service
-34;1;0;0;0;0;2.0;freitag abend pizz bestellen extra vorher angerufen problem freitag absprachen bescheid bestellen pizz webseite stehen zudem kosten pizz pizz webseite nachbaut stressig okay pizz kommen schnell liefern sorry pizz wärmebox eiskalt einfach wärmeboxen benutzen warm pizz lecker wabbelig lieferung pizz halt kalt kalt pizza halt cool
-35;1;1;0;0;0;5.0;nice
-36;1;0;0;0;0;4.0;gut pizzeria umkreis geschmack super restaurant hoch andrang klein köstlichkeit warten schade reservieren
-37;1;0;0;0;0;5.0;awesom pizza
-39;1;0;0;0;0;5.0;pizza
-40;1;0;0;0;0;5.0;wahnsinnig toll pizza lecker
+19;1;0;1;0;0;5.0;super leckere belegte pizza extrem dünn mitte dicker fluffiger rand normale deutsche sorten z.b. hawaii sucht vergeblich deutlich italienischer
+20;1;0;1;0;0;4.0;pizzen lecker wartezeit grade stichzeiten 1std sommer schön draußen sitzen drinnen musik laut
+21;1;0;0;0;0;5.0;gehört pizza restaurants frankfurt lecker
+22;1;0;0;0;0;5.0;absolutely fantastic
+23;1;0;0;0;0;3.0;pizza mozarella frische zutaten boden labbig rand reichlich teig wartezeit stolzen preis durchwachsenes produkt
+24;1;0;1;0;0;5.0;this place just perfect best pizzas frankfurt amazing vibes
+25;1;1;1;1;0;5.0;beste pizza deutschland kosten servierte neapolitanische pizza preis leistung
+26;1;0;0;0;0;4.0;traditionell italienische pizza genau essen theke bestellen veganer geeignet
+27;1;0;1;0;0;5.0;leckerste pizza stadt tolles ambiente
+28;1;0;0;0;1;5.0;definitiv beste pizza frankfurt pizza schmeckt genau originale neapolitanische pizza vorstellt warten pizza jedes genial
+29;1;0;0;0;0;5.0;super leckere pizza
+30;1;1;1;0;0;5.0;super leckere pizzen stylisher trubeliger atmosphäre familär super nette super bro's
+31;1;0;0;0;0;4.0;leckere pizza toll mittags
+32;1;1;0;0;0;5.0;beste pizza frankfurt super liebes personal
+33;1;1;0;0;0;5.0;pizza merkt gegessen völlegefühle sonstigen symptome liegt teig hervorragender teig hervorragender service
+34;1;0;0;0;0;2.0;freitag abend pizzen bestellen extra paar vorher angerufen probleme wusste freitag absprachen bescheid sodass wolt bestellen meisten pizzen webseite stehen zudem kosten pizzen pizzen webseite nachbaut stressig okay solls pizzen kamen schnell geliefert sorry pizzen wärmebox eiskalt wieso einfach wärmeboxen benutzen warmen pizzen lecker wabbelig lieferung pizzen halt kalt kalte pizza halt cool
+35;1;1;0;0;0;5.0;nice pizza wine very friendly self service three brothers doing great very perfect frankfurt
+36;1;0;0;0;0;4.0;beste pizzeria umkreis frankfurt geschmack qualität super restaurant hohen andrang klein köstlichkeit warten schade reservieren
+37;1;0;0;0;0;5.0;awesome pizza
+38;1;0;1;0;0;3.0;firstly this place only accepts cash german debit cards obviously option tourists like it's again which shame because staff were really good pizzas were amazing
+39;1;0;0;0;0;5.0;they doing best napolitan pizza frankfurt their specialty super pizza must need reservation time order pizza visit
+40;1;0;0;0;0;5.0;wahnsinnig tolle pizza lecker
 41;1;0;0;0;0;5.0;absolut lecker
-42;1;0;1;0;0;5.0;pizza
+42;1;0;1;0;0;5.0;very tasty pizza busy friendly setting great lovers neapolitan style pizza
 43;1;0;0;0;0;5.0;wunderbar
-44;1;0;0;0;1;5.0;pizza tastes just super fast
-45;1;1;1;1;1;5.0;service preis service super
-46;1;0;0;0;0;5.0;gut pizza einzig pizza nennen voll warten absolut normal nachvollziehbar verstehen negativ rezension
-47;1;0;0;0;0;5.0;leck pizz
-48;1;0;0;0;0;5.0;super lecker pizza preise fair großzügig belegen
-49;1;0;0;0;0;5.0;super
+44;1;0;0;0;1;5.0;love their neapolitan style pizza tastes just like original it's small usually take away even with worst line they super fast
+45;1;1;1;1;1;5.0;pizza service faire preise service super
+46;1;0;0;0;0;5.0;beste pizza frankfurts einzige pizza napoletana nennen voll warten absolut normal nachvollziehbar verstehe negativen rezensionen
+47;1;0;0;0;0;5.0;leckere pizzen
+48;1;0;0;0;0;5.0;super leckere pizza neapel preise frankfurt fair großzügig belegt
+49;1;0;0;0;0;5.0;super pizza
 50;1;0;1;1;0;5.0;pizza teuer authentisch neapolitanisch
 51;1;0;0;0;0;5.0;einfach geil sagen
-52;1;1;0;0;0;5.0;nett service spitzen pizza
-55;1;0;0;0;0;4.0;super lecker pizza reservieren relativ tisch warten kalt temperatur draußen gegessen bestellen bezahlen theke hinterlässt name
-59;0;0;0;0;0;2.0;laden irgendwie komplett overrated männlich einzig zuvorkommend freundlich service angehen musik
-60;1;1;0;0;0;5.0;super lecker pizza nett service gerne
-61;1;0;0;0;0;5.0;probably
-62;1;0;1;0;1;5.0;geburtstag freitag abend feiern insgesamt hungrig jung mann geben bestellung pizz warten lassen minute pizz
-63;1;0;0;0;0;3.0;trick quicker still
-64;1;0;0;0;0;3.0;grandios pizza wartezeit telefon
-65;0;0;0;0;0;1.0;frau super klassisch pizz nehmen pizza matschig mitte geschmacklich büffelmozarella ebenfalls geschmacklich neutral geschmack sagen schlechte pizz gegess gegessen hype laden nachvollziehen ebenfalls eindruck eher dunkel laut empfehlen
-66;1;0;0;0;0;5.0;pizz authentisch neapolitanisch bestellen kasse häufig schlange stoßzeit schwierig sitzplatz bekommen
-67;1;0;0;0;0;3.0;pizza lecker innen ungemütlich service minute anstehen bestellen nochmal minute warten rest abräumen person bestellung entgegennehmen freundlich
-68;1;0;1;0;0;3.0;reasonably bringing
-69;0;0;0;0;0;3.0;versuchen anzurufen pizza mitnehmen bestell sowieso telefon scheinbar halten nötig sowieso leute vorbeikommen warterei kommen pizz ecke gegessen bleiben feuerwerk teig irgendwie gummiartig zutat fehlen gewiß geschmacklich flach umami erhoffen pizza gewinnen direkt vergleich
-70;0;0;0;0;0;1.0;1h20
-71;1;1;1;0;0;4.0;leck pizza ambiente eher lang verbleib weiterziehen positiv emotion fein
-74;1;1;1;1;1;4.0;echt neapolitanisch pizza warten direkt rein platz bekommen cool leute essen
-75;1;0;0;0;0;5.0;persönlich gut pizza bleiben ungeschlagen liebling bockenheimer kekspizza
-76;1;1;0;0;0;4.0;neapolitanisch pizza besuch lohnen fall nachmittags persönlich konzept laut musik abend
-77;0;0;0;0;0;1.0;frau minute stehen warten entscheiden setzen frei tisch außenbereich höchstens minute bestellung aufgeben sprechen
-78;1;0;0;0;0;4.0;echt italiener schmecken sogar intensiv geschmack büffelmozzarella problem sitzplatz finden irgendwie klappts mitbringen
-79;1;0;1;0;0;5.0;stück sicher gut pizza gegessen probieren verpassen
-80;1;0;0;0;0;5.0;leck pizza teig extrem lecker vegan käse pizza essen getränk theke bestellen bezahlen
-82;1;1;1;0;0;5.0;pizza niveau kommen gerne freundlich zuvorkommend personal samstag abends laufen zudem musik empfehlen
-83;1;1;1;1;1;5.0;perfekt überragend wochenende super stimmung einfach essen schön abend
-84;1;0;0;0;0;5.0;vernünftig neapolitanisch pizza danke
-85;1;0;0;0;0;5.0;gut pizza stadt
+52;1;1;0;0;0;5.0;netter service spitzen pizza
+53;1;0;0;0;0;5.0;perfect
+54;1;0;1;0;0;5.0;great place neopolitano pizza very crowded youre probably best suited dont come during after work hours
+55;1;0;0;0;0;4.0;super leckere pizza reservieren relativ tisch warten trotz kalter temperaturen draußen gegessen bestellt bezahlt theke hinterlässt namen
+56;1;0;0;0;0;5.0;best pizza frankfurt
+57;1;1;1;1;1;5.0;everything great there pizza quality taste price hope they stay they ever
+58;1;0;0;0;0;5.0;hands down best pizza frankfurt least pizza place
+59;0;0;0;0;0;2.0;laden irgendwie komplett overrated service köche männlich einzige poser-show zuvorkommend freundlich service angeht musik laut
+60;1;1;0;0;0;5.0;super leckere pizza netter service gerne
+61;1;0;0;0;0;5.0;probably best pizza frankfurt
+62;1;0;1;0;1;5.0;geburtstag freitag abend gefeiert insgesamt hungrige junge männer gaben bestellung pizzen warten lassen minuten pizzen
+63;1;0;0;0;0;3.0;went there during rush hour wait more than hour pizza trick though order takeaway quicker still table pizza great
+64;1;0;0;0;0;3.0;grandiose pizza neapel wartezeiten stoßzeiten telefon
+65;0;0;0;0;0;1.0;frau super bros klassischen pizzen genommen margarita pizza matschig mitte geschmacklich tomatengeschmack raus büffelmozarella ebenfalls geschmacklich neutral geschmack sagen schlechtesten pizzen gegessen gegessen hype laden nachvollziehen ebenfalls eindruck eher nachtclub anstatt pizzeria dunkel laut empfehlen
+66;1;0;0;0;0;5.0;pizzen frankfurts authentisch neapolitanisch bestellt kasse häufig schlange stoßzeiten schwierig sitzplatz bekommen
+67;1;0;0;0;0;3.0;pizza lecker innen laut ungemütlich service naja minuten anstehen bestellen nochmal minuten warten reste abräumen person bestellung entgegennimmt freundlich
+68;1;0;1;0;0;3.0;waited over hour pizza from time payment granted friday night staff should inform customers hour wait time before taking payment rather than after pizza delicious though best frankfurt reasonably priced atmosphere around place great order drinks whilst wait should consider bringing some snacks there starters nibbles menu
+69;0;0;0;0;0;3.0;versucht anzurufen pizza mitnehmen bestellen sowieso telefon scheinbar hält nötig sowieso leute vorbeikommen min. warterei kamen pizzen ecke gegessen blieb feuerwerk teig irgendwie gummiartig zutaten fehlte gewisse geschmacklich flach umami erhofft pizza montana gewinnt direkten vergleich
+70;0;0;0;0;0;1.0;1h20 delay super says waiter funny
+71;1;1;1;0;0;4.0;leckere pizza ambiente eher längeren verbleib essen weiterziehen positive emotionen fein
+72;1;1;1;0;0;5.0;words just amazing very delicious pizza great atmosphere great service good take away service
+73;1;0;0;0;0;5.0;best pizza ever
+74;1;1;1;1;1;4.0;echte neapolitanische pizza warten dürften direkt rein platz bekommen coole leute essen
+75;1;0;0;0;0;5.0;persönlich beste pizza burratina bleibt ungeschlagener liebling bockenheimer kekspizza sorry
+76;1;1;0;0;0;4.0;neapolitanischen pizza besuch lohnt fall nachmittags persönlich konzept laute musik abend
+77;0;0;0;0;0;1.0;frau minuten stehen gewartet entschied setzen freien tische außenbereich höchstens minuten bestellung aufgeben sprach
+78;1;0;0;0;0;4.0;echter italiener schmeckt sogar intensiven geschmack tomate büffelmozzarella heraus problem sitzplatz finden irgendwie klappts mitbringen
+79;1;0;1;0;0;5.0;stück neapel frankfurt sicher beste pizza außerhalb neapel gegessen probiert verpasst
+80;1;0;0;0;0;5.0;leckere pizza teig extrem lecker vegane käse pizza essen getränke theke bestellen bezahlen
+81;1;0;0;0;0;5.0;very interesting tasty pizza
+82;1;1;1;0;0;5.0;pizza niveau komme gerne freundliches zuvorkommendes personal samstag abends läuft zudem musik empfehlen
+83;1;1;1;1;1;5.0;perfekt überragend wochenende super stimmung einfach essen schönen abend
+84;1;0;0;0;0;5.0;vernünftige neapolitanische pizza danke bros
+85;1;0;0;0;0;5.0;beste pizza stadt
 86;1;0;0;0;0;5.0;spitzenklasse
-87;1;0;1;0;0;5.0;pizz italien stimmung laden mega cool wahrscheinlich geschmackssach pizza laden besuchen
-88;1;1;1;0;0;5.0;egal echt klasse nett personal angenehm ambiente
-89;1;0;0;0;0;5.0;hervorragend neapolitanisch pizza
-90;1;1;1;0;1;5.0;super fruendlich atmosphäre chillig schön auswahl pizzas lecker schnell fertig wartezeit qalität leiden
-91;1;0;0;0;0;5.0;leck pizza hochpreisig
-93;1;0;0;0;0;4.0;pizza durchschnitt atmosphäre eher jung volk preis fair
+87;1;0;1;0;0;5.0;pizzen außerhalb italiens stimmung laden mega cool wahrscheinlich geschmackssache pizza frankfurt laden besuchen
+88;1;1;1;0;0;5.0;mega leckers pizza egal echt klasse nettes personal angenehmes ambiente
+89;1;0;0;0;0;5.0;hervorragende neapolitanische pizza
+90;1;1;1;0;1;5.0;staff super fruendliche atmosphäre chillig schöne auswahl pizzas lecker schnell fertig wartezeit qalität leidet
+91;1;0;0;0;0;5.0;leckere pizza hochpreisig
+92;1;0;0;0;0;5.0;amazing pizza
+93;1;0;0;0;0;4.0;pizza durchschnitt atmosphäre eher jüngere volk preis fair
