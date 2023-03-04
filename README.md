@@ -1,1 +1,5 @@
 # NLPGoogleReviewSummary
+
+ # Packages
+
+TextBlob
